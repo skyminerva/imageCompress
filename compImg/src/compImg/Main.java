@@ -313,7 +313,7 @@ public class Main {
 	 * 
 	 * @param input
 	 */
-	private static void alertBox(String input) { // 미사용 1
+	private static void alertBox(String input) { // 미사용
 		String text = "입력한 값" + input + "이 유효하지 않습니다.";
 		// 알럿 창 띄우기
 		JOptionPane.showMessageDialog(null, text);
